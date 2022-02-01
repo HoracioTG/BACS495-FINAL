@@ -9,6 +9,8 @@ function Footer() {
             </div>
             <div className='footer_content'>
                 <p>- this is the footer</p>
+                <p>insert about links and other resource links</p>
+                <p>I still need a body</p>
             </div>
         </div>
     );  
