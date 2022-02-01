@@ -1,0 +1,15 @@
+.header {
+    margin: 20px;
+    border: 5px;
+    background-color: burlywood;
+}
+
+.header_title {
+    font-size: 20px;
+    color: crimson;
+}
+
+.header_content {
+    font-size: 15px;
+    color: darkslateblue;
+}
