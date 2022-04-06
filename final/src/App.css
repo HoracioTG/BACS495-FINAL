@@ -1,0 +1,31 @@
+.App {
+
+}
+.header_section {
+    margin: 5px;
+    border: 5px;
+    background-color: white;
+}
+.body_section {
+    margin: 5px;
+    border: 5px;
+    background-color: white;
+}
+.footer_section {
+    margin: 5px;
+    border: 5px;
+    background-color: white;
+}
+
+.title {
+    font-size: 20px;
+    color: black;
+}
+
+.content {
+    font-size: 20px;
+    color: darkslateblue;
+}
+
+
+

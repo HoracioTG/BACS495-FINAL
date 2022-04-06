@@ -1,17 +1,18 @@
 import React from 'react'
 import './App.css';
 
-function Footer() {
+function Body() {
     return (
-        <div className='footer_section'>
+        <div className='body_section'>
             <div className='title'>
-            <h1>Footer</h1>
+                <h1>Body</h1>
             </div>
             <div className='content'>
-                <p>this is the footer. I still need to add stuff</p>
+                <p>- this is the body</p>
+                <p>I still need a body</p>
             </div>
         </div>
     );  
 }
 
-export default Footer
+export default Body

@@ -49,6 +49,7 @@ function App() {
         <QuestionForm addQuestion={addQuestion} />
       </div>
       <Footer />
+      
     </div>
   );
 }
