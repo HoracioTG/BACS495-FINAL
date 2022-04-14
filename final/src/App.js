@@ -1,4 +1,4 @@
-import './App.css';
+// import './App.css';
 import Header from './header.js';
 import Footer from './footer.js';
 // import Body from './Body';
@@ -14,9 +14,7 @@ function App() {
       <SubmitQuestion />
       <hr />
       <Questions />
-      {/*<Users/>
-       <Body/>
-      <Blocks/> */}
+      {/* <Question /> */}
       <Footer />
     </div>
   );
