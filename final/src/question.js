@@ -6,7 +6,7 @@ function Question({ question, index, completeQuestion }) {
     return (
         <div
             className="question"
-            style={{ textDecoration: quetstion.isCompleted ? "line-through" : "" }}
+            style={{ textDecoration: question.isCompleted ? "line-through" : "" }}
         >
             {question.text}
             <div>
