@@ -28,7 +28,7 @@ export default function Questions() {
 
     return (
         <div>
-            <p>Questions</p>
+            <p>Vote - Questions</p>
             <div>
                 {questions.map(q =>
                     <div key={q.id}>{q.question} (Votes: {q.votes == null ? "0" : q.votes})

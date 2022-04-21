@@ -6,7 +6,8 @@ function Header() {
     return (
         <div className='header_section'>
             <div className='title'>
-                <h1>Header</h1>
+                <h1>UNC Student AskAll Forum</h1>
+                <p>Welcome Bears! Feel free to ask any questions about anything relating to UNC</p>
             </div>
         </div>
     );

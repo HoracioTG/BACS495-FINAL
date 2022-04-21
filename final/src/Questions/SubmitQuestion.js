@@ -20,13 +20,14 @@ export default function SubmitQuestion() {
     }
     return (
         <div>
-            <p>Submit Question</p>
+            
             <form>
-                <label>Question:
-                    <textarea value={question} onChange={(e) => setQuestion(e.target.value)}></textarea>
-                </label>
+                <label className='sub-title'>Ask Your Question:
                 <br />
-                <button value="Submit Question" onClick={submitQuestion}>Submit Question</button>
+                    <textarea className='question-box' value={question} onChange={(e) => setQuestion(e.target.value)}>randomtext..</textarea>
+                </label>
+                
+                <button className='button' value="Submit Question" onClick={submitQuestion}>Submit Question</button>
             </form>
         </div>
     )
