@@ -1,6 +1,6 @@
 # BACS495-FINAL
 
-**Once the code has been cloned, type the following terminal command in the directory where the code lives. **
+**Once the code has been cloned, type the following terminal command in the directory where the code lives.**
 $ npm install
 
 **install the following dependancies:**
@@ -21,5 +21,5 @@ The api should have loaded in port 3000.
 Visit http://localhost:3000/ in order to see the back end
 
 **In order to change the port number, go into the myApi/bin>www directory. The port number is set in line 16. Change the port number string to match the port. 
-The MongoDB cluster was set in the same location but on line 18. Change the string to match the cluster. **
+The MongoDB cluster was set in the same location but on line 18. Change the string to match the cluster.**
 
