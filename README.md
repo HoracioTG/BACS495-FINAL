@@ -1,6 +1,7 @@
 # BACS495-FINAL
 
 **Once the code has been cloned, type the following terminal command in the directory where the code lives.**
+
 $ npm install
 
 **install the following dependancies:**
